@@ -1,4 +1,4 @@
-# hello-worlds-2
+# hello-world-2
 just one more test repository
 
 i created the first one a while ago so desided
